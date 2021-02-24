@@ -28,6 +28,7 @@ _Sorting algorithms implemented in different languages (for hacktoberfest_ 😃)
 | Rust | [`Bubble Sort`](Rust/Bubble_Sort.rs)
 | Kotlin |[`Merge Sort`](Kotlin/MergeSort.kt) [`Bubble Sort`](Kotlin/BubbleSort.kt) [`Selection Sort`](Kotlin/selectionSort.kt) <br> [`Heap Sort`](Kotlin/HeapSort.kt) [`Insertion Sort`](Kotlin/InsertionSort.kt) [`Quick Sort`](Kotlin/QuickSort.kt) [`Bogo Sort`](Kotlin/BogoSort.kt)[`Counting Sort`](Kotlin/CountingSort.kt) [`Radix Sort`](Kotlin/RadixSort.kt) [`Cocktail Shaker Sort`](Kotlin/CocktailShakerSort.kt)
 | Elixir | [`Selection Sort`](Elixir/selectionSort.exs)
+| Swift | [`Bubble Sort`](Swift/BubbleSort.exs) [`Selection Sort`](Swift/SelectionSort.exs)
 
 
 
